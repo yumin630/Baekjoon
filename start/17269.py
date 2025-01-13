@@ -1,5 +1,5 @@
-N, M = map(int, input().split())
-A, B = input().split()
+N, M = map(int, input().split()) # 이름 길이 입력
+A, B = input().split() #이름 입력
 
 alp = [3, 2, 1, 2, 4, 3, 1, 3, 1, 1, 3, 1,
        3, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1]
